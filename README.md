@@ -24,13 +24,6 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-- 👨🏻‍💻 I’m currently pursuing my **Bachelor of Engineering in CS at JSPM RSCOE Tathawade, Pune**
-
-- 🖥️ I’m currently learning **REACT.js and Express.js**
-
-- 🚀 I'm on my journey to be a **Full Stack Web Developer.**
-
-- 🤝 I’m looking for full-time opportunities as a **Software Developer**
 
 - 💬 Feel free to connect with me and Ask me about **anything ! ✌️**
 
